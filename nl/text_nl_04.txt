@@ -1,0 +1,22 @@
+Voor Bollebozen
+Voor de bollebozen onder jullie wat extra achtergrondinformatie rond concepten waarop de Drawdio gebaseerd is.
+De Wet van Ohm
+De wet van Ohm is een empirische natuurkundige wet, genoemd naar de Duitse natuurkundige Georg Ohm, die een relatie legt tussen spanning, weerstand en stroomsterkte. De wet van Ohm luidt als volgt:
+
+U = I x R
+
+In woorden is dit: de stroomsterkte I door een geleider is recht evenredig met de spanning U tussen de uiteinden. 
+Het quotiënt van spanning en stroomsterkte is dus een constante. Deze constante wordt de weerstand R van de geleider genoemd.
+
+U wordt uitgedrukt in V (volt) en I in A (ampère), terwijl de weerstand R uitgedrukt wordt in Ω (ohm). Met de Drawdio zetten we een spanningsverschil over de twee uiteinden, dit via de batterij van 1,5 Volt. Afhanklijk van de weerstand R van het lichaam of object waardoor de stroom vloeit zal aan het andere uiteinde een andere hoeveelheid stroom aankomen, namelijk U/R aan stroom. Dit leidt tot verschillende tonen die we kunnen horen. Is een object niet geleidend, wat we een isolator noemen, dan is R reusachtig groot en vloeit er geen stroom
+Condensator
+Wat doet de Drawdio met dat beetje stroom en hoe komt er een toon uit? Wel, we laden met de stroom een condensator op. Is er weinig stroom dan gebeurt dat traag, is er veel stroom dan vlug. 
+
+Een condensator is een elektrische component die elektrische lading en elektrische energie opslaat. Hij is opgebouwd uit twee geleiders met een relatief groot oppervlakte, die zich dicht bij elkaar bevinden en gescheiden zijn door een niet-geleidend materiaal. Wanneer de ene geleider positief geladen wordt ten opzichte van de andere, verplaatst de negatieve lading in het diëlektricum zich naar de positieve plaat.
+
+Hiernaast zie je de schakeling om een condensator met een staafbatterij op te laden. De stroom van plus- naar min-pool van de batterij leidt tot opbouw van de elektrische ladingen +Q en -Q op de platen van de condensator, die gepaard gaat met een elektrisch veld (pijltjes) tussen deze platen. Omdat er geen weerstand in de schakeling zit, komt de volledige batterijspanning V over de platen te staan.
+
+Eenmaal opgeladen zal onze chip zorgen dat de condenstor terug ontladen wordt. Dit aan en af schakelen wordt omgezet in een toon uit de luidspreker. Als dit vlug kan (weinig weerstand) dan krijgen we de hoogste toon. Gaat het traag om op te laden, dan verlaagt de toon. De hoeveelheid weerstand vertaalt zich zo in een toon.
+Meer over weerstanden
+Een weerstand is een elektrische component die de eigenschap elektrische weerstand heeft. Via de wet van Ohm kunnen we zo bepalen hoeveel stroom we uit een batterij trekken. Het is dus een voorwerp dat dient om elektrische stroom beperkt door te laten, zoals een vernauwing in een tuinslang minder water doorlaat. Weerstanden die je koopt hebben een kleurencode om te weten hoe groot de weerstand is. De 4 bands weerstandscode staat in de figuur hiernaast. 
+Gebruik het internet om voor andere types de weerstand te bepalen. Of gewoon je multimeter op de stand weerstand!

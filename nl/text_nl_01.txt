@@ -1,0 +1,38 @@
+De Drawdio kit
+Proficiat met je aankoop van de Ingegno drawdio kit. Laat je fantasie de vrije loop, en maak je eigen instrument met fruit, water, mensen, ... . Alles dat geleidt kun je gebruiken. 
+
+Je dient volgend gereedschap klaar te leggen om alles ineen te kunnen zetten: 
+• Soldeerstation en soldeertin
+• Secondenlijm of lijmpistool
+• Striptang, Kniptang
+• Een vrije werkruimte
+• En AA batterij
+Verder kun je volgende zaken toevoegen:
+• potlood
+• punaise
+
+Voor deze kit moet je redelijk goed kunnen solderen op een printplaat. Raak niet te lang de printplaat aan, of ze kan intern foute connecties maken. Lukt het niet, laat dan alles eerst wat afkoelen voor je opnieuw begint. 
+
+De Ingegno Drawdio kit is een variatie van de originele kit van Adafruit: https://learn.adafruit.com/drawdio/design, uitgevonden en ontwikkeld door Jay Silver en Adafruit. 
+Principe
+De drawdio is gebouwd rond de TLC551 chip, welke toelaat om oscillators te bouwen. Oscillators zijn toestellen die trillingen kunnen maken. De snelheid van de trilling  (frequentie) hangt af van 2 weerstanden en een condensator. De chip laadt de condensator op, en laat hem dan weer traagjes leeglopen. 
+
+De trilling kan  oplopen tot 1000 Hertz, wat overeenkomt met wat mensen kunnen horen. Het menselijk oor hoort luchttrillingen van 20 tot 20000 Hertz (1 Hertz is een trilling per seconde). Als we rechtstreeks de uiteinden van de drawdio verbinden zal de trilling 3500 Hertz zijn. Gebruiken we een weerstand van 1 Mega Ohm = 1.000.000 Ohm, dan is de trilling ongeveer 1000 Hertz, dus een lagere toon.
+
+Het vernuftige aan de Drawdio is dat we allerlei geleidende materialen als weerstand kunnen gebruiken. Het menselijk lichaam bevoorbeeld heeft een weerstand van 200.000 Ohm. Het materiaal van een potlood, grafiet, heeft een weerstand van 0,3 Ohm per cm, maar uitgespreid op een blad papier wordt dat al vlug enkele Mega Ohm. 
+
+Door deze materialen te gebruiken om het circuit te sluiten zullen we erin slagen alerlei verschillende tonen te maken. 
+
+De trilling die de chip opwekt wordt gestuurd naar een kleine luidspreker. Eerst moet het signaal wel nog versterkt worden. We gebruiken een transistor om dit te doen. Eenmaal het signaal versterkt is, is het krachtig genoeg om de luidspreker te doen trillen en een hoorbaar geluid op te wekken.
+Electrisch Schema
+Het electrisch schema staat hiernaast in detail. Maak je geen zorgen als je dit niet kunt lezen, op de PCB staat alles goed aangeduid hoe alles moet ineengestoken worden, en we tonen het straks in detail! Zie je de mens op het schema? 
+
+Kijk je op de PCB (de ronde printplaat in het kit) dan zie je bij alle gaatjes een aanduiding van welke component gebruikt moet worden. Enkele componenten moeten met de juiste zijde geconnecteerd worden, deze hebben een + teken of een getekende vorm om te helpen geen fouten te maken. 
+
+Leg de PCB voor je en kijk wat erop geschreven staat. Bovenaan links zie je SPK, daar komt de luidspreker. Rechts bovenaan, boven de uil, zie je de positie van de batterij. Zorg dat je + met de plus zijde van de batterij verbindt. Ga je verder in wijzerzin, dan kom je R1 (20MOhm), C1 (680 pF), RA (10 KOhm), C3 (100 uF) tegen.
+
+Vervolgens komt de chip. Let op de tekening, deze toont bovenaan een inkeping. Aan deze kant moet de stip komen die bovenaan op de chip staat. Gaan we verder in wijzerzin, dan komen we RB (300 KOhm) en Q1 tegen. Q1 is de transistor, welke de vorm heeft van een halve cilinder. Je ziet hiervoor een halve cirkel getekend op de PCB, zo weet je hoe je de transistor moet op de PCB zetten. 
+
+Vervolgens komt R2 (10 Ohm) en C2 (0.1 uF). C2 is een speciale condensator. Hij heeft een + en een - zijde die juist moeten geconnecteerd worden. Op de PCB zie je een + zodat je niet mist.
+
+We hebben alle gaatjes op de PCB gehad, uitgenome deze uiterst links en rechts. Deze zijn de uiteinden die we moeten verbinden via een materiaal. Verbind je ze rechtstreeks heb je dus een geluid van 3500 Hertz. Met een weerstand ertussen verlaagt de toon.
