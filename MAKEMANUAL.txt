@@ -1,0 +1,24 @@
+A. De handleiding is gemaakt met scribus. De tekstvakken zijn deel van git.
+
+B. Scribus maakt pdf handleiding
+
+C. Voor een booklet van onze A4 PDF manual ga je als volgt te werk:
+
+  1. 4 pagina's per enkel blad, dus werken in veelvouden van 4 ! Voeg lege blz toe indien nodig.
+
+  2. converteer naar ps:
+
+  pdf2ps scribusmanual_v01_it.pdf
+
+  3. maak het in boekvolgorde (bv laatste pagina naast 1e!)
+
+  psbook -s12 scribusmanual_v01_it.ps scribusmanual_v01_itA.ps
+
+  4. plaats nu 2 A4 pagina's op 1 A4 pagina door te verkleinen
+
+  psnup -2 -pa4 -Pa4 scribusmanual_v01_itA.ps scribusmanual_v01_itB.ps
+
+  5. en zet alles op einde terug om in pdf
+
+  ps2pdf -sPAPERSIZE=a4 scribusmanual_v01_itB.ps scribusmanual_v01_it_booklet.pdf
+  ps2pdf -sPAPERSIZE=a4 Ingegno_Drawdio_v01B.ps
