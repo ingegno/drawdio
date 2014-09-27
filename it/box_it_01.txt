@@ -1,0 +1,16 @@
+Componenti
+• PCB: circuito stampato su cui si saldano le componenti
+• IC1 chip: TLC551 
+• Q1 pnp transitor EBC PN2907A  
+• C1 680pF condensatore
+• C2 0.1 uF condensatore (104)
+• C3 100 uF condensatore
+• R1 20M Ohm (Rosso,Nero,Blu,Oro)
+• R2 10 Ohm (Marrone,Nero,Nero,Oro)
+• RA 10K Ohm (Marrone,Nero,Arancione, Oro)
+• RB 300K Ohm (Arancione,Nero,Giallo,Oro)
+• BATT AA supporto per batterie
+• SPK, altoparlante (piccolo, 8hm)
+• portamatita
+• 2 magneti
+• filo elettrico

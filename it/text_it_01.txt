@@ -1,38 +1,43 @@
-De Drawdio kit
-Proficiat met je aankoop van de Ingegno drawdio kit. Laat je fantasie de vrije loop, en maak je eigen instrument met fruit, water, mensen, ... . Alles dat geleidt kun je gebruiken. 
+Drawdio kit
 
-Je dient volgend gereedschap klaar te leggen om alles ineen te kunnen zetten: 
-• Soldeerstation en soldeertin
-• Secondenlijm of lijmpistool
-• Striptang, Kniptang
-• Een vrije werkruimte
-• En AA batterij
-Verder kun je volgende zaken toevoegen:
-• potlood
-• punaise
+Complimenti per il vostro acquisto del kit Drawdio  di Ingegno. 
+Da' via libera alla tua fantasia e costruisci uno strumento musicale con frutta, acqua, persone ...
+Tutto cio' che conduce puo' essre usato. 
 
-Voor deze kit moet je redelijk goed kunnen solderen op een printplaat. Raak niet te lang de printplaat aan, of ze kan intern foute connecties maken. Lukt het niet, laat dan alles eerst wat afkoelen voor je opnieuw begint. 
+Hai bisogno dei seguenti strumenti per poter costruire il tuo Drawdio: 
 
-De Ingegno Drawdio kit is een variatie van de originele kit van Adafruit: https://learn.adafruit.com/drawdio/design, uitgevonden en ontwikkeld door Jay Silver en Adafruit. 
-Principe
-De drawdio is gebouwd rond de TLC551 chip, welke toelaat om oscillators te bouwen. Oscillators zijn toestellen die trillingen kunnen maken. De snelheid van de trilling  (frequentie) hangt af van 2 weerstanden en een condensator. De chip laadt de condensator op, en laat hem dan weer traagjes leeglopen. 
+• Una penna per saldare e dello stagno?
+• Colla veloce o ....colla, pistola per colla
+• Stripping tool, tronchesino
+• Un piano di lavoro
+• Una pila AA 1.5V
 
-De trilling kan  oplopen tot 1000 Hertz, wat overeenkomt met wat mensen kunnen horen. Het menselijk oor hoort luchttrillingen van 20 tot 20000 Hertz (1 Hertz is een trilling per seconde). Als we rechtstreeks de uiteinden van de drawdio verbinden zal de trilling 3500 Hertz zijn. Gebruiken we een weerstand van 1 Mega Ohm = 1.000.000 Ohm, dan is de trilling ongeveer 1000 Hertz, dus een lagere toon.
+Inoltre, puoi aggiungere: 
+• matita
+• puntina
 
-Het vernuftige aan de Drawdio is dat we allerlei geleidende materialen als weerstand kunnen gebruiken. Het menselijk lichaam bevoorbeeld heeft een weerstand van 200.000 Ohm. Het materiaal van een potlood, grafiet, heeft een weerstand van 0,3 Ohm per cm, maar uitgespreid op een blad papier wordt dat al vlug enkele Mega Ohm. 
+Per completare questo kit devi saper saldare su una PCB. Non surriscaldare troppo la PCB con il ferro saldatore o potresti rovinare i circuiti interni. In caso pensi il tutto sia troppo caldo, lascia raffreddare prima di ricominciare. 
 
-Door deze materialen te gebruiken om het circuit te sluiten zullen we erin slagen alerlei verschillende tonen te maken. 
+Il kit Drawdio di Ingegno e' una variante del kit originale di Adafruit: https://learn.adafruit.com/drawdio/design, pensato e sviluppato da Jay Silver e Adafruit. 
 
-De trilling die de chip opwekt wordt gestuurd naar een kleine luidspreker. Eerst moet het signaal wel nog versterkt worden. We gebruiken een transistor om dit te doen. Eenmaal het signaal versterkt is, is het krachtig genoeg om de luidspreker te doen trillen en een hoorbaar geluid op te wekken.
-Electrisch Schema
-Het electrisch schema staat hiernaast in detail. Maak je geen zorgen als je dit niet kunt lezen, op de PCB staat alles goed aangeduid hoe alles moet ineengestoken worden, en we tonen het straks in detail! Zie je de mens op het schema? 
+Come funziona? 
+Il drawdio e' costruito intorno al chip TLC551, con il quale si possono costruire oscillatori. Oscillatori sono degli strumenti che possono produrre vibrazioni.  La velocita' della vibrazione (frequenza) dipende da due resistenze ed un condensatore. Il chip carica il condensattore e lo lascia scaricare lentamente.
 
-Kijk je op de PCB (de ronde printplaat in het kit) dan zie je bij alle gaatjes een aanduiding van welke component gebruikt moet worden. Enkele componenten moeten met de juiste zijde geconnecteerd worden, deze hebben een + teken of een getekende vorm om te helpen geen fouten te maken. 
+La vibrazione puo' arrivare fino a 1000 Hertz, udibile all'orecchio umano. L'orecchio umano puo' udire vibrazioni dell'aria tra i 20 e 20000 Hertz (1 Hertz e' una vibrazione al secondo). Se si connettono direttamente le due uscite del drawdio si ottienen una vibrazione di 3500 Hertz zijn. Con una resistenza di 1 Mega Ohm = 1.000.000 Ohm, la vibrazione e' di piu' o meno 1000 Hertz, quindi un tono piu' basso. 
 
-Leg de PCB voor je en kijk wat erop geschreven staat. Bovenaan links zie je SPK, daar komt de luidspreker. Rechts bovenaan, boven de uil, zie je de positie van de batterij. Zorg dat je + met de plus zijde van de batterij verbindt. Ga je verder in wijzerzin, dan kom je R1 (20MOhm), C1 (680 pF), RA (10 KOhm), C3 (100 uF) tegen.
+La cosa geniale del Drawdio e' che si possono usare svariati tipi di materiale conduttivo come resistenza. Il corpo umano per esempio ha una resistenza di piu' o meno 200.000 Ohm. La grafite in una matita ha una resistenza di 0,3 Ohm per cm, ma quando sparsa su un goglio di carta si arriva velocemente a qulache Mega Ohm. 
 
-Vervolgens komt de chip. Let op de tekening, deze toont bovenaan een inkeping. Aan deze kant moet de stip komen die bovenaan op de chip staat. Gaan we verder in wijzerzin, dan komen we RB (300 KOhm) en Q1 tegen. Q1 is de transistor, welke de vorm heeft van een halve cilinder. Je ziet hiervoor een halve cirkel getekend op de PCB, zo weet je hoe je de transistor moet op de PCB zetten. 
+Usando vari tipi di materiale per chiudere il circuito, si riesce a produrre svariati tipi di toni. 
 
-Vervolgens komt R2 (10 Ohm) en C2 (0.1 uF). C2 is een speciale condensator. Hij heeft een + en een - zijde die juist moeten geconnecteerd worden. Op de PCB zie je een + zodat je niet mist.
+La vibrazione generata dal chip viene trasmessa ad un piccolo autoparlante. Il segnale viene pero' prima rafforzato in modo da essere abbastanza forte da poter far vibrare l'autoparlante e produrre un suono udibile all'orecchio umano. 
 
-We hebben alle gaatjes op de PCB gehad, uitgenome deze uiterst links en rechts. Deze zijn de uiteinden die we moeten verbinden via een materiaal. Verbind je ze rechtstreeks heb je dus een geluid van 3500 Hertz. Met een weerstand ertussen verlaagt de toon.
+Schema Elettrico
+Lo schema elettrico e' illustrato in dettaglio qui al lato. Non preoccuparti se non sai leggerlo, sulla PCB ogni componente e' indicata. Fai attenzione che alcune componenti hanno un verso, ed e' importante connetterle correttamente, il verso e' indicato sulla PCB o con un + o con il disegno della forma della componente, cosi' da evitare errori.
+
+Poni la PCB sul piano di lavoro e gurda bene cosa ci e' scritto sopra. In alto a sinistra dovresti trovare SPK, la' si connette l'altoparlante. A destra in alto. sopra il gufo, vedi dove va la batteria. Ricorda che + va connesso con il + della batteria. Procedi in senso orario, trovi R1(20MOhm), C1 (680 pF), RA (10 KOhm), C3 (100 uF).
+
+Poi trovi il chip. Fai attenzione al disegno, in alto vedi un incavo. A questo lato deve corrispondere il pallino in alto sul chip stesso. Procedi ancora in senso orario, troverai RB (300 KOhm) e Q1. Q1 e' il transistor, che ha la forma di un mezzo cilindro. Per questo vedi un mezzo cerchio disegnato sulla PCB, questo indica come saldare il transistor nel verso giusto. 
+
+Procedendo trovi, R2 (10 Ohm) e C2 (0.1 uF). C2 e' un condensatore speciale. Questo ha un + ed un - e deve essere inserito correttamente, sulla PCB vedi il segno del +. cosi' non puoi sbagliare. 
+
+Abbiamo cosi' visto tutti i buchi sulla PCB, tranne due. Queste sono le estremita' che connettiamo attraverso un materiale. Se le connetti direttamente udirai un suono da 3500 Hertz. Con una resistenza il suono diminuisce di tono. 

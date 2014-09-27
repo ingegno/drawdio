@@ -1,22 +1,27 @@
-Voor Bollebozen
-Voor de bollebozen onder jullie wat extra achtergrondinformatie rond concepten waarop de Drawdio gebaseerd is.
-De Wet van Ohm
-De wet van Ohm is een empirische natuurkundige wet, genoemd naar de Duitse natuurkundige Georg Ohm, die een relatie legt tussen spanning, weerstand en stroomsterkte. De wet van Ohm luidt als volgt:
+Per chi vuole saperne di piu'!
+
+Infornazioni extra sui concetti su cui e' basato il Drawdio. 
+
+
+La legge di Ohm
+La legge di Ohm e' una legge fisica empirica, che deve il suo nome al fisico tedesco Georg Ohm. Questa legge esplicita la relazione tra ??spanning, resistenweerstandza e corrente:  
 
 U = I x R
 
-In woorden is dit: de stroomsterkte I door een geleider is recht evenredig met de spanning U tussen de uiteinden. 
-Het quotiënt van spanning en stroomsterkte is dus een constante. Deze constante wordt de weerstand R van de geleider genoemd.
+La corrente I attraverso un conduttore e' direttamente proporzionale con ??spanning tra i due estremi. 
+Il quoziente tra ??spanning e corrente e' una costante, questa viene chiamata resistenza R del conduttore. 
 
-U wordt uitgedrukt in V (volt) en I in A (ampère), terwijl de weerstand R uitgedrukt wordt in Ω (ohm). Met de Drawdio zetten we een spanningsverschil over de twee uiteinden, dit via de batterij van 1,5 Volt. Afhanklijk van de weerstand R van het lichaam of object waardoor de stroom vloeit zal aan het andere uiteinde een andere hoeveelheid stroom aankomen, namelijk U/R aan stroom. Dit leidt tot verschillende tonen die we kunnen horen. Is een object niet geleidend, wat we een isolator noemen, dan is R reusachtig groot en vloeit er geen stroom
-Condensator
-Wat doet de Drawdio met dat beetje stroom en hoe komt er een toon uit? Wel, we laden met de stroom een condensator op. Is er weinig stroom dan gebeurt dat traag, is er veel stroom dan vlug. 
+U viene espresso in V (volt) e I in A (ampère), mentre la resistenza R si esprime in Ω (ohm). Con il Drawdio produciamo una differenza di U tra i due estremi, questo grazie alla batteria di 1,5 Volt. A seconda della resistenza R del corpo od oggetto attraverso cui fluisce la corrente arrivera' all'altra estermita' un'altra quantita' di corrente, U/R. Questo fa si' che si possono produrre diversi toni che siano per noi udibili.  Se un oggetto non e' un conduttore, allora R e' gigantesca e non fluisce corrente.  
 
-Een condensator is een elektrische component die elektrische lading en elektrische energie opslaat. Hij is opgebouwd uit twee geleiders met een relatief groot oppervlakte, die zich dicht bij elkaar bevinden en gescheiden zijn door een niet-geleidend materiaal. Wanneer de ene geleider positief geladen wordt ten opzichte van de andere, verplaatst de negatieve lading in het diëlektricum zich naar de positieve plaat.
+Condensatore
+Che fa il Drwadio con il po' di corrente che fluisce e come produce un suono? Con la corrente si carica il condensatore. Con poca corrente questo succede lentamente, altrimenti velocemente. 
 
-Hiernaast zie je de schakeling om een condensator met een staafbatterij op te laden. De stroom van plus- naar min-pool van de batterij leidt tot opbouw van de elektrische ladingen +Q en -Q op de platen van de condensator, die gepaard gaat met een elektrisch veld (pijltjes) tussen deze platen. Omdat er geen weerstand in de schakeling zit, komt de volledige batterijspanning V over de platen te staan.
+Un condensatore e' una componente elettrica che contiene carica ed energia elettrica. Consiste di due conduttori con una superfice relativamente grande che si trovano vicini ma sono separati da un materiale isolante.   Quando un conduttore e' caricato positivamente rispetto all'altro si sposta la carica negativa nel dielettrico sulla piastra positiva.  
 
-Eenmaal opgeladen zal onze chip zorgen dat de condenstor terug ontladen wordt. Dit aan en af schakelen wordt omgezet in een toon uit de luidspreker. Als dit vlug kan (weinig weerstand) dan krijgen we de hoogste toon. Gaat het traag om op te laden, dan verlaagt de toon. De hoeveelheid weerstand vertaalt zich zo in een toon.
-Meer over weerstanden
-Een weerstand is een elektrische component die de eigenschap elektrische weerstand heeft. Via de wet van Ohm kunnen we zo bepalen hoeveel stroom we uit een batterij trekken. Het is dus een voorwerp dat dient om elektrische stroom beperkt door te laten, zoals een vernauwing in een tuinslang minder water doorlaat. Weerstanden die je koopt hebben een kleurencode om te weten hoe groot de weerstand is. De 4 bands weerstandscode staat in de figuur hiernaast. 
-Gebruik het internet om voor andere types de weerstand te bepalen. Of gewoon je multimeter op de stand weerstand!
+Qui di lato si vede lo schema per caricare un condensatore con una batteria. La corrente da + a - nella batteria implica l'accumulo di cariche elettriche +Q en -Q sulle piastre del condensatore, che si accoppia al campo elettrico (frecce) tra le piastre.  Non essendoci una resistenza il voltage completo della batteria verra' trasferito sulle piastre. 
+
+Una volta carico, il chip fara' in modo che si scarichi di nuovo. Questo caricarsi e scaricarsi viene trasformato in un tono nell'altoparlante. Se questo avviene velocemente (poca resistenza) si ha un tono alto. Se il caricarsi e' lento allora si ha un tono piu' basso. La quantita' di resistenza si traduce in un tono. 
+
+Resistenza
+Una resistenza e' una componente elettrica che ha la proprieta' di resistenza elettrica. 
+Attraverso la legge di Ohm si puo' determinare quanta corrente si tira da una batteria. E' una componente che si usa per ridurre la quantita' di corrente che fluisce. Le resistenze che si acquistano hanno un codice di colore per calcolarne il valore. Vedi anche lo schema qui al lato per lo schema a 4 bande di colore. Su internet si possono trovare altri schemi per altri codici, o si puo' semplicemente usare un multimeter!

@@ -1,18 +1,19 @@
-Bouwen
-Leg alle stukken op je werkruimte. Zorg dat je voor de weerstanden en de condensatoren goed weet welke R1, R2, RA, RB, C1, C2 en C3 zijn. Zie de componentenlijst voor de kleurencodes op de weerstanden, of gebruik een multimeter om zeker te zijn dat je de weerstanden juist hebt.
+Costruzione
 
-Begin met de weerstanden vast te solderen.  Een weerstand heeft geen polariteit dus dat betekent dat je hem kunt plaatsen in om het even welke manier.
+Prepara tutto il materiale sul tuo tavolo da lavoro e ordina le componenti in modo che sai precisamente quali siano R1, R2, RA, RB, C1, C2 e C3.  Per riconoscere le resistenze usa lo schema a colori od un multimetro. 
 
-Doe vervolgens de keramische condensatoren (blauw en bruin/geel). Ook deze zijn symmetrisch  en mogen dus in beide richtingen worden geplaatst. De condensator C2 is gepolarizeerd. Je ziet op de zijkant een lijn met - erin. Het been aan die kant moet aan de min zijde van de C2 gaten in de PCB.
+Inizia a saldare le resistenze. Queste non hanno polarita' quindi non ha importanza in quale verso le inserisci. 
 
-Plaats nu de chip. Het zwarte stipje op de chip gaat aan de kant van het gat in de PCB, een inkeping staat ook op de figuur van de PCB.
+Salda poi i condensatori ceramici (blu e marrone/giallo). Anche questi sono simmetrici quindi il verso in cui li inserisci non ha importanza.  Il condensatore C2 e' polarizzato. Quindi fai attenzione al + ed il -. IL lato con la striscia grigia e' il -. Questo lato deve essere inserito correttamente sulla PCB dove e' indicato il -. 
 
-Doe vervolgens de transistor Q1. Plaats de bolle kant zoals getekend op de PCB.
+Salda ora il chip. Il pallino nero sul chip deve corrispondere al lato della PCB dove e' indicata una tacca. Attenzione quindi al verso giusto!
 
-Maak nu de luidspreker klaar. Knip twee stukjes draad, en strip deze (strippen is de metaalkern van de draad vrijmaken). Heb je geen striptang, dan kun je dat ook met je nagels/tanden doen, wel voorzichtig zijn! De achterkant van de luidspreker heeft twee kleine metalen vierkantjes waarop je de draadjes moet solderen. Vertin eerst de draadjes, en soldeer dan de draadjes zo op de luidspreker. Zodra dit klaar is, verbind je de luidspreker met de PCB waar SPK staat. De orientatie doet er niet toe, een luidspreker gebruikt een blokstroom om trillingen te maken, en de onze kan stroom in beide richtingen aan.
+Ora e' il turno del transistor Q1. Anche questo ha un verso, la parte tonda deve corrispondere al semicerchio disegnato sulla PCB. 
 
-Soldeer als  laatste de batterij op zijn plaats. De verbinding is rechtsboven, boven de Ingegno uil op de PCB. Opgelet hier, plus en min moeten juist verbonden worden, of de PCB zal kapot gaan. Let dus ook goed op als je de batterij in de batterijhouder doet.
+Prepara ora l'altoparlante. Prepara due fili elettrici e spogliatene circa 1 cm ad ambo i lati. Salda poi questi due fili sul dietro dell'altoparlante dove vedi due quadratini metallici. Vi consiglio di stagnare prima i due fili per saldarli piu' facilmente. Appena pronti collegate questi fili alla PCB dove vedete la scritta SPK. L'orientamento non ha importanza, un altoparlante usa un flusso a blocco per creare vibrazioni, e qui abbiamo corrente in entrambe le direzioni.  
 
-Bijna klaar! Voor je de draadjes verbindt links en rechts om het circuit te kunnen gebruiken, test je het best eens. Plaats een batterij in de houder en verbindt de twee zijden (gebruik het nog niet gebruikte draadje). Als je juist gesoldeerd hebt, zou je een hoge toon moeten horen. Indien niet, controleer elke verbinding die je gemaakt hebt. Ergens zal er een fout zijn of een slechte soldeernaad. 
+Per ultimo saldate il contenitore della batteria, a destra sopra il gufetto di Ingegno. Attenzione al + ed al - altrimenti rompete il Drawdio. Fate anche attenzione quando inserite la betteria stessa nel contenitore.
 
-Nu je weet dat de Drawdio werkt, maak je de laatste twee draadjes vast. Neem ze lang genoeg zodat je gemakkelijk kunt experimenteren. De kit bevat tween magneetjes. Dat is gemakkelijk om objecten mee te verbinden. Let wel op! Magneetjes uit de buurt houden van kleine kinderen, ze zijn heel sterk en klein, en mogen in geen geval ingeslikt worden! Om de magneetjes vast te maken, strip een lang uiteinde van de draad, en wikkel de draad rond de magneet zodat hij goed vast is. Kun je ondertussen goed solderen, soldeer dan de draad ook vast aan de magneet. Let wel op, als de magneet erg warm wordt zal ze demagnetizeren, en wordt het dus een gewoon stukje metaal. Niet te lang je soldeertip in de buurt houden dus.
+Quasi pronti! Prima di saldare gli ultimi due fili per poter usare il circuito, controllate se tutto e' corretto. Inserite la batteria e collegate i due estremi con uno dei due fili ancora non usati. Se tutto e' saldato cerrettamente dovreste udire un suono. Se no, rocontrollate tutte le connessioni, o c'e' una componente inserita in modo sbagliato o una saldatura non e' buona. Correggete se si puo' e riprovate.  
+
+Ora che sapete che il Drawdio funziona, saldate gli ultimi due fili. Lasciateli lunghi abbastaza per avere piu' liberta' per sperimentare. Il kit contiene anche due magneti per poter connettere facilmete ad oggetti metallici. Attenzione! I magneti sono piccoli e potenti, teneteli fuori portata dei bambini che potrebbero inghiottirli. Per fissare i magneti, spogliate un filo, infilatelo poi nel magnete e attorcigliatelo cosi' che rimane fisso. Potete anche saldare il filo sul magnete, per far cio' poggiate prima il magnete su un oggetto metallico pesante, per esempio una pinza, per evitare che si attachi alla penna saldatrice. Fate attenzione, se il magnete si surriscalda troppo si demagnetizza. 

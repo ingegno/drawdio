@@ -1,17 +1,26 @@
-Gebruik je Drawdio
-Er zijn verschillende manieren hoe je je Drawdio kunt gebruiken. Slechts enkele ideeen hier.
-Menselijke ketting
-Laat een persoon een uiteinde vasthouden, en een andere persoon een andere. Schudt je elkaar de hand, dan zul je het horen. Hoeveel mensen kun je zo in de ketting plaatsen? Lukt het beter als je bezweet bent? Griezelig te denken dat al die elektriciteit door je lichaam gaat, niet? 
-Tekenen met Muziek
-Een gewoon potlood werkt door grafietlaagjes op een blad papier te plaatsen. Gezien dunne grafiet geleidend is met een hoge weerstand, kunnen we door te tekenen muziek maken met de Drawdio. Indien het niet zo goed werkt, kun je wat water toevoegen om de geleidbaarheid te vergroten. Niet alle potloden werken immers even goed. Vanaf potlood type 4B zou het moeten lukken, zelf vinden we 6B ideaal.
+Come usare il Drawdio
 
-Je kit bevat een potloodhouder. Plaats je Drawdio erop en lijm het voorzichtig vast. Je kan nu een potlood door de potloodhouder stoppen. Er zijn nu verschillende manieren om het circuit te sluiten en muziek te maken. Wij doen het volgende. Druk een ijzeren punaise op de achterkant van het potlood, in het grafiet. Met de magneet zet je een kant van de Drawdio vast op de punaise. Het andere uiteinde van de Drawdio druk je tegen het potlood met de hand waarmee je potlood vast hebt om te tekenen. Maak een dikke lijn. Als je nu je andere hand op de lijn houdt, alsook je potloodpunt op de lijn zet, dan is het circuit gesloten via je lichaam, en maak je muziek. Je kan dus een potloodtekening maken, en afhankelijk van waar je ene hand erop ligt, en de potloodpunt op de tekening is, heb je andere klanken. 
+Ci sono diversi modi per usare il Drawdio. Qui illustriamo solo alcune idee. 
 
-Als alternatief kun je natuurlijk zelf de twee uiteinden van de Drawdio op andere plaatsen van de tekenen drukken. Merk ook op dat als de grafietstaaf in het potlood gebroken is, dit niet zal werken via de punaise. De punaise dichter bij de punt brengen is dan de oplossing. Als een alternatief voor een potlood, kun je ook gewoon vochtlijnen schilderen met een penseel op een blad papier.
-Muntpiano
-Voor een muntpiano plak je verschillende koperen Eurocentjes op een balkje, en soldeer je er verschillende weerstanden tussen. Je kan dan via de Drawdio verschillende klanken oproepen afhankelijk van de munt die je aanraakt.
-Concert met Fruit
-Een ander idee is de geleidbaarheid van fruit te testen voor je het opeet. Hiertoe gebruik je een banaan, sinaalsappel, kiwi, ... . Je brengt draadjes aan van de ene naar de andere, en een zijde van de Drawdio naar het begin. Neem dan met je linkerhand het andere uiteinde van de Drawdio vast, en gebruik je rechterhand om met het fruit concert te spelen.
+Catena umana. 
+Lascia una persona tenere un'estremita' ed un'altra persona l'altra. Se si stringono la mano, lo udirai. Quante persone si possono mettere nella catena? Va meglio se si e' un po' sudaticci? 
+E' da brividi sapere che il nostro corpo e' un conduttore, no? 
 
-Dit is ook ideaal om te weten welke appel het sappigst is voor je hem meeneemt naar school.
+
+Disegna con musica. 
+Una matita funziona lasciando dei strati di grafite su un foglio. Visto che la grafite e' conduttiva con un'alta resistenza, possiamo fare della musica disegnando. Se non funziona bene potete aggiungere un po' d'acqua per migliorare la conduttivita'. Alcune matite funzionano meglio di altre. A partire da 4B dovrebbero andar bene tutte, noi troviamo la 6B ideale. 
+
+Nel kit troverete anche un pezzo per montare il drawdio su una matita. Ponete il Drwadio su questo pezzo e fissatelo con un po' di colla. Poi potete infilare la matita. Ci sono diversi modi per chiudere il circuito disegnando. Noi procediamo nel modo segunete. Fissate una puntina sul dietro della matita, la punta deve fare contatto con la grafite. Con un magnete fissate un lato del Drawdio alla puntina. L'estremita' dell' altro filo la spingete contro la matita con la mano con cui tenete a matita per disegnare. Disegnate una linea abbastanza spessa. Se con una mano toccate la linea mentre  con l'altra disegnate, il circuito e' chiuso attraverso la graftie ed il vostro corpo, dovreste udire dei suoni. A seconda di dove tenete la mano e la matita udirete un suono/tono diverso. 
+
+In alternativa potete voi tenere le due estremita' del Drawdio su punti diversi del disegno. Fate attenzione che se la staffetta di grafite nella matita e' rotta , il Drawdio non funzionera' attarverso la puntina. Mettere la puntina piu' vicino alla punta potrebbe essere una soluzione. 
+
+In alternativa alla matita potete anche usare un pennello e dell'acqua. 
+
+Un piano di monete.
+Incollate alcune monete di rame su un foglio di carta e saldate delle resistenze (diverse) tra una moneta e l'altra. Con il Drawdio potete suonare diversi toni a seconda della moneta che toccate. 
+
+Concerto con frutta.
+Un'altra idea è quella di provare la conducibilita' della frutta prima di mangiarla. Per fare usa per esempio una banana, arancia, kiwi,. ... Metti dei fili elettrici da una frutta all'altra e collega un'estremita' del Drawdio all'inizio della catena di frutta. Con l'altra estremita; tocca i vari frutti e suona cosi' il tuo concerto!
+
+Questo è anche ideale per sapere quali mele sono le piu' succose da portare a scuola. 
 
