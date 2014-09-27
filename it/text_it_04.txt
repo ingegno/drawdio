@@ -1,27 +1,19 @@
 Per chi vuole saperne di piu'!
-
 Infornazioni extra sui concetti su cui e' basato il Drawdio. 
-
-
 La legge di Ohm
-La legge di Ohm e' una legge fisica empirica, che deve il suo nome al fisico tedesco Georg Ohm. Questa legge esplicita la relazione tra ??spanning, resistenweerstandza e corrente:  
+La legge di Ohm e' una legge fisica empirica, che deve il suo nome al fisico tedesco Georg Ohm. Questa legge esprime la relazione di proporzionalità diretta tra la differenza di potenziale elettrico, U, applicata ai capi di un conduttore e l'intensità della corrente elettrica, I,  che lo attraversa. La costante di proporzionalità è detta resistenza elettrica, R:  
 
 U = I x R
 
-La corrente I attraverso un conduttore e' direttamente proporzionale con ??spanning tra i due estremi. 
-Il quoziente tra ??spanning e corrente e' una costante, questa viene chiamata resistenza R del conduttore. 
-
-U viene espresso in V (volt) e I in A (ampère), mentre la resistenza R si esprime in Ω (ohm). Con il Drawdio produciamo una differenza di U tra i due estremi, questo grazie alla batteria di 1,5 Volt. A seconda della resistenza R del corpo od oggetto attraverso cui fluisce la corrente arrivera' all'altra estermita' un'altra quantita' di corrente, U/R. Questo fa si' che si possono produrre diversi toni che siano per noi udibili.  Se un oggetto non e' un conduttore, allora R e' gigantesca e non fluisce corrente.  
-
+U viene espresso in V (volt) e I in A (ampère), mentre la resistenza R si esprime in Ω (ohm). Con il Drawdio produciamo una differenza di potenziale tra i due estremi, questo grazie alla pila di 1,5 Volt. A seconda della resistenza R del corpo od oggetto attraverso cui fluisce la corrente arrivera' all'altra estermita' un'altra quantita' di corrente, U/R. Questo fa si' che si possono produrre diversi toni che siano per noi udibili.  Se un oggetto non e' un conduttore, allora R e' gigantesca e non fluisce corrente.  
 Condensatore
 Che fa il Drwadio con il po' di corrente che fluisce e come produce un suono? Con la corrente si carica il condensatore. Con poca corrente questo succede lentamente, altrimenti velocemente. 
 
 Un condensatore e' una componente elettrica che contiene carica ed energia elettrica. Consiste di due conduttori con una superfice relativamente grande che si trovano vicini ma sono separati da un materiale isolante.   Quando un conduttore e' caricato positivamente rispetto all'altro si sposta la carica negativa nel dielettrico sulla piastra positiva.  
 
-Qui di lato si vede lo schema per caricare un condensatore con una batteria. La corrente da + a - nella batteria implica l'accumulo di cariche elettriche +Q en -Q sulle piastre del condensatore, che si accoppia al campo elettrico (frecce) tra le piastre.  Non essendoci una resistenza il voltage completo della batteria verra' trasferito sulle piastre. 
+Qui di lato si vede lo schema per caricare un condensatore con una batteria. La corrente che fluisce dal + al - nella pila genera l'accumulo di cariche elettriche +Q en -Q sulle piastre del condensatore, ed il relativo campo elettrico (frecce) tra le piastre.  Non essendoci una resistenza il voltage completo della batteria verra' trasferito sulle piastre. 
 
-Una volta carico, il chip fara' in modo che si scarichi di nuovo. Questo caricarsi e scaricarsi viene trasformato in un tono nell'altoparlante. Se questo avviene velocemente (poca resistenza) si ha un tono alto. Se il caricarsi e' lento allora si ha un tono piu' basso. La quantita' di resistenza si traduce in un tono. 
-
+Una volta carico, il chip fara' in modo che il condensatore si scarichi di nuovo. Questo caricarsi e scaricarsi viene trasformato in un tono nell'altoparlante. Se questo avviene velocemente (poca resistenza) si ha un tono alto. Se il caricarsi e' lento allora si ha un tono piu' basso. La quantita' di resistenza si traduce in un tono. 
 Resistenza
 Una resistenza e' una componente elettrica che ha la proprieta' di resistenza elettrica. 
-Attraverso la legge di Ohm si puo' determinare quanta corrente si tira da una batteria. E' una componente che si usa per ridurre la quantita' di corrente che fluisce. Le resistenze che si acquistano hanno un codice di colore per calcolarne il valore. Vedi anche lo schema qui al lato per lo schema a 4 bande di colore. Su internet si possono trovare altri schemi per altri codici, o si puo' semplicemente usare un multimeter!
+Attraverso la legge di Ohm si puo' determinare quanta corrente si tira da una batteria. E' una componente che si usa per ridurre la quantita' di corrente che fluisce. Le resistenze che si acquistano hanno un codice di colore per calcolarne il valore. Vedi anche lo schema qui al lato per lo schema a 4 bande di colore. Su internet si possono trovare altri schemi per altri codici, o si puo' semplicemente usare un multimetro!

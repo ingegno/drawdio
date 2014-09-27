@@ -1,17 +1,12 @@
 Drawdio kit
-
-Complimenti per il vostro acquisto del kit Drawdio  di Ingegno. 
-Da' via libera alla tua fantasia e costruisci uno strumento musicale con frutta, acqua, persone ...
-Tutto cio' che conduce puo' essre usato. 
+Complimenti per il vostro acquisto del kit Drawdio  di Ingegno. Da' via libera alla tua fantasia e costruisci uno strumento musicale con frutta, acqua, persone ... Tutto cio' che conduce puo' essre usato. 
 
 Hai bisogno dei seguenti strumenti per poter costruire il tuo Drawdio: 
-
 • Una penna per saldare e dello stagno?
 • Colla veloce o ....colla, pistola per colla
 • Stripping tool, tronchesino
 • Un piano di lavoro
 • Una pila AA 1.5V
-
 Inoltre, puoi aggiungere: 
 • matita
 • puntina
@@ -19,7 +14,6 @@ Inoltre, puoi aggiungere:
 Per completare questo kit devi saper saldare su una PCB. Non surriscaldare troppo la PCB con il ferro saldatore o potresti rovinare i circuiti interni. In caso pensi il tutto sia troppo caldo, lascia raffreddare prima di ricominciare. 
 
 Il kit Drawdio di Ingegno e' una variante del kit originale di Adafruit: https://learn.adafruit.com/drawdio/design, pensato e sviluppato da Jay Silver e Adafruit. 
-
 Come funziona? 
 Il drawdio e' costruito intorno al chip TLC551, con il quale si possono costruire oscillatori. Oscillatori sono degli strumenti che possono produrre vibrazioni.  La velocita' della vibrazione (frequenza) dipende da due resistenze ed un condensatore. Il chip carica il condensattore e lo lascia scaricare lentamente.
 
@@ -29,8 +23,7 @@ La cosa geniale del Drawdio e' che si possono usare svariati tipi di materiale c
 
 Usando vari tipi di materiale per chiudere il circuito, si riesce a produrre svariati tipi di toni. 
 
-La vibrazione generata dal chip viene trasmessa ad un piccolo autoparlante. Il segnale viene pero' prima rafforzato in modo da essere abbastanza forte da poter far vibrare l'autoparlante e produrre un suono udibile all'orecchio umano. 
-
+La vibrazione generata dal chip viene trasmessa ad un piccolo autoparlante. Il segnale viene pero' prima rafforzato in modo da essere abbastanza forte da poter far vibrare l'autoparlante e produrre un suono udibile all'orecchio umano.
 Schema Elettrico
 Lo schema elettrico e' illustrato in dettaglio qui al lato. Non preoccuparti se non sai leggerlo, sulla PCB ogni componente e' indicata. Fai attenzione che alcune componenti hanno un verso, ed e' importante connetterle correttamente, il verso e' indicato sulla PCB o con un + o con il disegno della forma della componente, cosi' da evitare errori.
 
